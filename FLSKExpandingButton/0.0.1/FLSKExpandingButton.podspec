@@ -17,5 +17,5 @@ Pod::Spec.new do |s|
   s.platform     = :ios, '6.0'
 
   s.source       = { :git => "git@github.com:floskel/FLSKExpandingButton.git", :tag => 'v0.0.1'} 
-  s.source_files = 'Source', 'Source/*.{h,m}'
-end
+  s.source_files = 'Source/*.{h,m}'
+end	
