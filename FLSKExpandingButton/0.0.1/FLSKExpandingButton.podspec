@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.license      = 'MIT'
   s.author       = { "Floskel" => "karlo@floskel.com" }
   
-  s.platform     = :ios, '5.0'
+  s.platform     = :ios, '6.0'
 
   s.source       = { :git => "git@github.com:floskel/FLSKExpandingButton.git", :tag => 'v0.0.1'} 
   s.source_files = 'Source', 'Source/*.{h,m}'
